@@ -208,11 +208,11 @@
             <div id= "link"class="card-body">
                 <br>
                 <h3>
-                Github Link:<a href="">Here</a>
+                Github Link:<a href="https://github.com/Akxiva/Web-3D-Assignment.git">Here</a>
                 <br>
-                3ds Max Archive:<a href="">Here</a>
+                3ds Max Archive:<a href="https://github.com/Akxiva/Web-3D-Assignment/tree/main/3ds%20Max%20archive">Here</a>
                 <br>
-                X3D model  Link:<a href="">Here</a>
+                X3D model  Link:<a href="https://github.com/Akxiva/Web-3D-Assignment/tree/main/application/assets/x3d">Here</a>
                 <hr>                 
               </h3>      
            </div>
@@ -432,10 +432,10 @@
                   <p><span class="align-baseline">&copy 2022 3D Apps | <a href="javascript:changeLook()">Restyle</a> | <a href="javascript:changeBack()">Reset</a></span></p>
               </div>
               <div class="navbar-text float-right social">
-                  <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-google-plus fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-github-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/cocacolaGB/?brand_redir=40796308305"><i class="fab fa-facebook-square fa-2x"></i></a>
+                  <a href="https://twitter.com/CocaCola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><i class="fab fa-twitter fa-2x"></i></a>
+                  <a href="https://www.google.com"><i class="fab fa-google-plus fa-2x"></i></a>
+                  <a href="https://github.com/Akxiva/Web-3D-Assignment"><i class="fab fa-github-square fa-2x"></i></a>
               </div>
           </div>
       </nav> 
