@@ -16,7 +16,7 @@
     <PointLight DEF='Omni003' location='-982.6 0 1051' radius='8026'/>
     <PointLight DEF='Omni004' location='1123 0 1154' radius='8026'/>
 
-    <NavigationInfo headlight='false'/>
+    <NavigationInfo DEF='headlight' headlight='true' type='"EXAMINE"'/>
 
     <Transform DEF='Line001' rotation='0.5774 -0.5774 0.5774 -4.189' translation='0 247 99.31'>
 

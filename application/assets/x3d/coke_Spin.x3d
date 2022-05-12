@@ -5,7 +5,7 @@
   <Scene DEF='scene'>
 
     <!-- CONTROLS NAVIGATION MODE AND HEAD LIGHT-->
-    <NavigationInfo DEF='NavInfo001' headlight='true' type='"EXAMINE"'/>
+    <NavigationInfo DEF='headlight' headlight='true' type='"EXAMINE"'/>
 
     <!-- CONTROLS LIGHTS-->
     <PointLight DEF='Omni001' location='-654.3 0 807.3' radius='16050'/>
